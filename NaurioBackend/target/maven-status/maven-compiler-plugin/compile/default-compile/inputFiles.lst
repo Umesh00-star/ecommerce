@@ -1,0 +1,17 @@
+C:\Users\Dell\Desktop\NaurioEmpire\NaurioBackend\src\main\java\com\naurioecommerce\config\JwtAuthenticationFilter.java
+C:\Users\Dell\Desktop\NaurioEmpire\NaurioBackend\src\main\java\com\naurioecommerce\config\JwtTokenProvider.java
+C:\Users\Dell\Desktop\NaurioEmpire\NaurioBackend\src\main\java\com\naurioecommerce\config\SecurityConfig.java
+C:\Users\Dell\Desktop\NaurioEmpire\NaurioBackend\src\main\java\com\naurioecommerce\config\Webconfig.java
+C:\Users\Dell\Desktop\NaurioEmpire\NaurioBackend\src\main\java\com\naurioecommerce\controller\AuthController.java
+C:\Users\Dell\Desktop\NaurioEmpire\NaurioBackend\src\main\java\com\naurioecommerce\controller\HomeController.java
+C:\Users\Dell\Desktop\NaurioEmpire\NaurioBackend\src\main\java\com\naurioecommerce\controller\testController.java
+C:\Users\Dell\Desktop\NaurioEmpire\NaurioBackend\src\main\java\com\naurioecommerce\dto\AuthRequest.java
+C:\Users\Dell\Desktop\NaurioEmpire\NaurioBackend\src\main\java\com\naurioecommerce\dto\AuthResponse.java
+C:\Users\Dell\Desktop\NaurioEmpire\NaurioBackend\src\main\java\com\naurioecommerce\dto\RegisterRequest.java
+C:\Users\Dell\Desktop\NaurioEmpire\NaurioBackend\src\main\java\com\naurioecommerce\dto\UserDto.java
+C:\Users\Dell\Desktop\NaurioEmpire\NaurioBackend\src\main\java\com\naurioecommerce\entity\Role.java
+C:\Users\Dell\Desktop\NaurioEmpire\NaurioBackend\src\main\java\com\naurioecommerce\entity\User.java
+C:\Users\Dell\Desktop\NaurioEmpire\NaurioBackend\src\main\java\com\naurioecommerce\NaurioEcommerceApplication.java
+C:\Users\Dell\Desktop\NaurioEmpire\NaurioBackend\src\main\java\com\naurioecommerce\repository\UserRepository.java
+C:\Users\Dell\Desktop\NaurioEmpire\NaurioBackend\src\main\java\com\naurioecommerce\service\AuthService.java
+C:\Users\Dell\Desktop\NaurioEmpire\NaurioBackend\src\main\java\com\naurioecommerce\service\CustomUserDetailsService.java
