@@ -52,7 +52,8 @@ public class SecurityConfig {
         http
             .csrf(csrf->csrf.disable())
             .authorizeHttpRequests(auth -> auth
-            .requestMatchers("/api/auth/**").permitAll() 
+            .requestMatchers("/api/auth/**","/api/auth/register").permitAll() 
+            .requestMatchers("/", "/index.html", "/static/**", "/css/**", "/js/**", "/images/**", "/**").permitAll()
              .requestMatchers("/register", "/", "/login", "/test","/home","/public/**").permitAll() // <-- Add your public pages here
             .anyRequest().authenticated()
            )
